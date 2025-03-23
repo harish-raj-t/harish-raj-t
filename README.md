@@ -9,14 +9,14 @@ Now, I focus on **developing intelligent AI systems** leveraging **LLMs, RAG, an
 - **Developing an end-to-end AI agent** that automates the translation of **I18N keys** into **20 languages** using **LLMs and Retrieval-Augmented Generation (RAG)**.  
 - **Building an AI chatbot** to **automate test case generation**, identify **use-case dependencies**, and retrieve relevant test cases using **similarity search with ChromaDB**. Additionally, the chatbot provides **instant insights** about the product by answering user queries.  
 ---
-## 🛠 Tech Stack  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge&logo=ai&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/NLP-00GFFF?style=for-the-badge&logo=ai&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Deep Learning-00BFFF?style=for-the-badge&logo=ai&logoColor=white" alt="Deep Learning"/>
 </p>
 
 ## 🏆 Featured Projects  
